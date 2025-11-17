@@ -1,0 +1,18 @@
+{
+  "welcomeBack": "Welcome Back",
+  "createAccount": "Create Account",
+  "signinDescription": "Sign in to access your voting dashboard",
+  "signupDescription": "Register to participate in secure elections",
+  "dataSecure": "🔐 Your data is encrypted and secure.",
+  "fullName": "Full Name",
+  "phoneNumber": "Phone Number",
+  "emailAddress": "Email Address",
+  "password": "Password",
+  "forgotPassword": "Forgot Password?",
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
+  "noAccount": "Don't have an account?",
+  "haveAccount": "Already have an account?",
+  "signUpHere": "Sign up",
+  "signInHere": "Sign in"
+}
