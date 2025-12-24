@@ -64,14 +64,16 @@ A Supabase account
 1. Clone the Repository
 Bash
 
-git clone https://github.com/yourusername/secure-vote.git
+git clone https://github.com/Abhishek-Sirothia/Online-Voting-System.git
 cd secure-vote
+
 2. Install Dependencies
 Bash
 
 npm install
 # or
 yarn install
+
 3. Environment Configuration
 Create a .env file in the root directory and add your Supabase credentials:
 
@@ -79,6 +81,7 @@ Code snippet
 
 VITE_SUPABASE_URL=your_supabase_project_url
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+
 4. Database Setup
 Ensure your Supabase project is set up with the required tables (profiles, face_data, elections, votes, etc.). You may need to run the SQL migration scripts located in the supabase/migrations folder.
 
